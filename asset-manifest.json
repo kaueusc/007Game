@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/007Game/static/css/main.90379d7a.css",
+    "main.js": "/007Game/static/js/main.c97120d4.js",
+    "static/js/453.8ecb2e67.chunk.js": "/007Game/static/js/453.8ecb2e67.chunk.js",
+    "index.html": "/007Game/index.html",
+    "main.90379d7a.css.map": "/007Game/static/css/main.90379d7a.css.map",
+    "main.c97120d4.js.map": "/007Game/static/js/main.c97120d4.js.map",
+    "453.8ecb2e67.chunk.js.map": "/007Game/static/js/453.8ecb2e67.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90379d7a.css",
+    "static/js/main.c97120d4.js"
+  ]
+}
